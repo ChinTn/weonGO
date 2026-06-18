@@ -1,6 +1,6 @@
 <p align="center">
   <br/><br/>
-  <span style="font-size:36px"><b>ALGOKNIGHT</b></span><br/>
+  <span style="font-size:36px"><b>WEONGO</b></span><br/>
   <i>Product Requirements Document</i><br/><br/>
   <b>A Unified Competitive Programming Analytics & Growth Platform</b>
 </p>
@@ -18,14 +18,14 @@
 
 # 1. Product Summary
 
-Algoknight is a unified competitive programming analytics and growth platform that aggregates a user's LeetCode and Codeforces activity into a single dashboard, layering on AI-driven weak-topic analysis, peer comparison, contest tracking, and personal knowledge vaults (tricky problems + concepts). A background worker keeps data fresh even when the user is logged out, and a real-time layer pushes updates to connected clients the moment new data syncs in.
+WeonGO is a unified competitive programming analytics and growth platform that aggregates a user's LeetCode and Codeforces activity into a single dashboard, layering on AI-driven weak-topic analysis, peer comparison, contest tracking, and personal knowledge vaults (tricky problems + concepts). A background worker keeps data fresh even when the user is logged out, and a real-time layer pushes updates to connected clients the moment new data syncs in.
 
 > [!IMPORTANT]
 > **Core Pitch — "Spotify Wrapped for DSA addicts"**
 >
-> User enters their LeetCode and Codeforces handles once. Algoknight silently keeps their stats fresh, tells them what they're bad at, shows them how they compare to friends, and gives them a place to dump tricky problems and concepts they'd otherwise forget.
+> User enters their LeetCode and Codeforces handles once. WeonGO silently keeps their stats fresh, tells them what they're bad at, shows them how they compare to friends, and gives them a place to dump tricky problems and concepts they'd otherwise forget.
 
-Algoknight is explicitly **not** a problem-solving platform — no judge, no code execution. It is a meta-layer on top of LeetCode and Codeforces that turns scattered profile data into structured self-knowledge and measurable growth.
+WeonGO is explicitly **not** a problem-solving platform — no judge, no code execution. It is a meta-layer on top of LeetCode and Codeforces that turns scattered profile data into structured self-knowledge and measurable growth.
 
 ---
 
@@ -59,7 +59,7 @@ A competitive programmer — student or placement-prep candidate — who activel
 > [!IMPORTANT]
 > **User Journey**
 >
-> "I link my LeetCode and Codeforces handles once. From then on, Algoknight silently keeps my stats fresh, tells me what I'm bad at, shows me how I compare to my friends, and gives me a place to dump the tricky problems and concepts I'd otherwise forget."
+> "I link my LeetCode and Codeforces handles once. From then on, WeonGO silently keeps my stats fresh, tells me what I'm bad at, shows me how I compare to my friends, and gives me a place to dump the tricky problems and concepts I'd otherwise forget."
 
 ---
 
